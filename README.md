@@ -32,13 +32,13 @@ Pizza is sold fresh or frozen, whole or in portion-size slices. Methods have bee
 
 ---
 ## Similar dishes
-- Calzone and stromboli are similar dishes that are often made of pizza dough folded (calzone) or rolled (stromboli) around a filling.
-- Coca is a similar dish consumed mainly in Catalonia and neighboring regions, but that has extended to other areas in Spain, and to Algeria. There are sweet and savory versions.
-- Farinata or cecina is a Ligurian (farinata) and Tuscan (cecina) regional dish. It is often baked in a brick oven, and typically weighed and sold by the slice.
+- *Calzone* and *stromboli* are similar dishes that are often made of pizza dough folded (calzone) or rolled (stromboli) around a filling.
+- *Coca* is a similar dish consumed mainly in Catalonia and neighboring regions, but that has extended to other areas in Spain, and to Algeria. There are sweet and savory versions.
+- *Farinata* or *cecina* is a Ligurian (*farinata*) and Tuscan (*cecina*) regional dish. It is often baked in a brick oven, and typically weighed and sold by the slice.
 Flammekueche is a food speciality of the Alsace region.
-- Focaccia is a flat leavened oven-baked Italian bread, similar in style and texture to pizza; in some places, it is called pizza bianca (lit. 'white pizza').
+- *Focaccia* is a flat leavened oven-baked Italian bread, similar in style and texture to pizza; in some places, it is called pizza bianca (lit. 'white pizza').
 Garlic fingers is an Atlantic Canadian dish, similar to a pizza in shape and size, and made with similar dough. It is garnished with melted butter, garlic, cheese, and sometimes bacon.
-- Semsek is an Armenian dish made with dough thats shaped into a circle with braided edges. It is topped with a mixture of seasoned mixture of minced meat and puréed roasted vegetables such as tomatoes and peppers
+- *Semsek* is an Armenian dish made with dough thats shaped into a circle with braided edges. It is topped with a mixture of seasoned mixture of minced meat and puréed roasted vegetables such as tomatoes and peppers
 
 ---
 Read original article [here](https://en.wikipedia.org/wiki/Pizza).
